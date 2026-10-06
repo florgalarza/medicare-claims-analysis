@@ -23,6 +23,8 @@ Se analizaron principalmente:
 
 - Evolución de los indicadores entre 2008 y 2010.
 
+Para conocer en mayor detalle el procesamiento de los datos, las decisiones metodológicas y el análisis exploratorio realizado, se puede consultar el notebook de Python (EDA_CMS.ipynb).
+
 ## Dashboard
 
 El tablero reúne una selección de los indicadores y hallazgos del proyecto. No se incluyeron todas las variables ni todos los análisis exploratorios realizados, con el objetivo de mantener una visualización clara y enfocada en las principales comparaciones.
